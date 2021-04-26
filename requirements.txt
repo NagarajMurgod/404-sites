@@ -1,0 +1,6 @@
+threaded
+dnspython
+os
+sys
+socket
+zipfile38
