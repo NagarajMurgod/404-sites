@@ -9,10 +9,10 @@
   
   
 #Usage:
-  get clone https://github.com/IAM5KID/404-sites
-  cd 404-sites
-  pip install -r requirements.txt
-  python3 subd_takeover.py
+  1)  get clone https://github.com/IAM5KID/404-sites
+  2)  cd 404-sites
+  3)  pip install -r requirements.txt
+  4)  python3 subd_takeover.py
   
  
   
