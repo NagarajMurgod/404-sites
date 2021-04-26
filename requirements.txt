@@ -4,3 +4,4 @@ os
 sys
 socket
 zipfile38
+requests
