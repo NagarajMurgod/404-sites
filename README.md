@@ -1,7 +1,8 @@
 # 404-sites
 
 ## Description:
-  1) The purpoe of this tool is to find subdoamains which  might be vulneable to subdomain takeover.
+  1) The purpos
+e of this tool is to find subdoamains which  might be vulneable to subdomain takeover.
   This tool finds possible subdomains and respective alias domain.
   
   2) Once this tool find the subdomains with 404 status code and  alias then please check link 
